@@ -1,0 +1,22 @@
+body{ 
+    font-family: 'Open Sans', sans-serif;
+  }
+.pink {
+    background-color: var(--pink);
+}
+
+.navbar-brand, .navbar-brand > img {
+    width: 8.5rem;
+}
+
+.icons-section h1 {
+    font-size: 3rem;
+}
+
+.icons-section i {
+    font-size: 3.5rem;
+}
+
+footer img {
+    width: 3rem;
+}
